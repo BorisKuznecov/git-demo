@@ -5,7 +5,6 @@ On this their chosen battlefield
 
 Form the lines
 Shield by shield
-<<<<<<< HEAD
 Side by side
 We're marching into destiny
 
@@ -23,8 +22,3 @@ In unity our victory's won
 Our shields will form a mighty wall
 United we shall never fall
 
-this commit for main branch
-=======
-
-some new lines
->>>>>>> 7fb7b53f57dc2f7e0e8fffa39c47bab57632b3f5
